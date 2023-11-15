@@ -1,10 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You would have to install dependencies for both main directory & frontend directory.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory & frontend directory, you can run the following:
+
+### `npm install`
+
+In the project directory, you can run on main directory:
 
 ### `npm run client`
 
